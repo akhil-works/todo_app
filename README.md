@@ -1,3 +1,3 @@
 TODO APP- DEMO
 --------------
-https://akhilkrishnak.github.io/todo_app/
+https://akhil-works.github.io/todo_app/
